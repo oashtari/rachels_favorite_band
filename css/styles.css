@@ -1,0 +1,29 @@
+.sidebar {
+  float: left;
+  background-color: #4d0099;
+  color: #f2e6ff;
+}
+
+.column {
+  float: left;
+  width: 300px;
+  font-style: italic;
+  padding-right: 75px;
+}
+
+.contact {
+  float: none;
+  padding-top: 350px;
+}
+
+#c1 {
+  padding-left: 75px;
+}
+
+#c2 {
+  color: red;
+}
+
+#c3 {
+  color: blue;
+}
